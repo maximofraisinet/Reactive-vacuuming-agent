@@ -8,6 +8,7 @@ Note: This project was developed as coursework for an Artificial Intelligence co
 https://github.com/user-attachments/assets/aa8553ee-c917-48a9-8c52-127dc6e8e7ef
 
 <img width="622" height="321" alt="Example" src="https://github.com/user-attachments/assets/a55ad0ac-f08e-413e-b7e3-08e68ee4f2d6" />
+
 *This simulation does not account for a comprehensive range of factors; therefore, its results should be interpreted as 
 preliminary observations rather than definitive conclusions.*
 
