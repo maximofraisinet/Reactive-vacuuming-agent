@@ -2,7 +2,7 @@
 
 A small PyQt6 simulation of a **simple reflex vacuum agent** that cleans dirt in a room with random obstacles.
 
-Note: This project was developed as coursework for an Artificial Intelligence course.
+Note: This project was developed as coursework for an Artificial Intelligence course at my university.
 
 ## Simple Reflex Agent Definition
 
