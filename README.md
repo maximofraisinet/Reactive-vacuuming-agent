@@ -4,6 +4,13 @@ A small PyQt6 simulation of a **simple reflex vacuum agent** that cleans dirt in
 
 Note: This project was developed as coursework for an Artificial Intelligence course at my university.
 
+
+https://github.com/user-attachments/assets/aa8553ee-c917-48a9-8c52-127dc6e8e7ef
+
+<img width="622" height="321" alt="Example" src="https://github.com/user-attachments/assets/a55ad0ac-f08e-413e-b7e3-08e68ee4f2d6" />
+*This simulation does not account for a comprehensive range of factors; therefore, its results should be interpreted as 
+preliminary observations rather than definitive conclusions.*
+
 ## Simple Reflex Agent Definition
 
 A simple reflex agent makes decisions based only on the current percept from the environment. It does not use memory of past states or predictions of future consequences. It follows rules of the form: **"if X happens, then do Y."**
